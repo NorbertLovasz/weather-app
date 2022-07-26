@@ -10,3 +10,4 @@ if (!currentCity) {
 // Actualizam orasul afisat pe ecran.
 currentCityTag.innerHTML = currentCity;
 displayCurrentWeather(currentCity);
+displayWeatherForecast(currentCity);
